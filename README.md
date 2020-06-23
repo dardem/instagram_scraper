@@ -1,4 +1,4 @@
-# Instagram Scrapper
+# Instagram Scraper
 
 Tool for parsing Instagram search pages by hashtags.
 
